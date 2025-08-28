@@ -52,3 +52,6 @@ Completing this room gave me both **offensive hacking skills** and a deeper **un
 
 11. [Walking an Application](walkinganapp.md)  
     Techniques for mapping and analyzing web applications. Tools and methodologies for effective application walkthroughs.
+
+    <img width="907" height="470" alt="image" src="https://github.com/user-attachments/assets/09d1a0ba-21f6-462c-8a9f-4a6c3598c042" />
+
